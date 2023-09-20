@@ -6,7 +6,18 @@ const App = () => {
   return (
     <div className="App">
       <h1>School of Software</h1>
-      <Card topic = "Cloud Computing" imageLink = "src/assets/images/Cloud Computing.webp"></Card>
+      <div Class="CardContainer">
+        <Card topic = "Cloud Computing" imageLink = "src/assets/images/Cloud Computing.webp"></Card>
+        <Card topic = "Cloud Computing" imageLink = "src/assets/images/Cloud Computing.webp"></Card>
+        <Card topic = "Cloud Computing" imageLink = "src/assets/images/Cloud Computing.webp"></Card>
+        <Card topic = "Cloud Computing" imageLink = "src/assets/images/Cloud Computing.webp"></Card>
+        <Card topic = "Cloud Computing" imageLink = "src/assets/images/Cloud Computing.webp"></Card>
+        <Card topic = "Cloud Computing" imageLink = "src/assets/images/Cloud Computing.webp"></Card>
+        <Card topic = "Cloud Computing" imageLink = "src/assets/images/Cloud Computing.webp"></Card>
+        <Card topic = "Cloud Computing" imageLink = "src/assets/images/Cloud Computing.webp"></Card>
+        <Card topic = "Cloud Computing" imageLink = "src/assets/images/Cloud Computing.webp"></Card>
+        <Card topic = "Cloud Computing" imageLink = "src/assets/images/Cloud Computing.webp"></Card>
+      </div>
     </div>
   )
 }

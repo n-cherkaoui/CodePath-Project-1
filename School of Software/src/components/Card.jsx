@@ -4,8 +4,9 @@ import React from "react";
 const Card = (props) => {
     return (
         <div className="Card">
-            <h1>{props.topic}</h1>
             <img src={props.imageLink} alt="card"></img>
+            <h2>{props.topic}</h2>
+            <button><a href={props.link}>View Resource</a></button>
         </div>
     )
 }
