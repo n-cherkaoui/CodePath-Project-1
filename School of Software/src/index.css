@@ -102,3 +102,11 @@ button:focus-visible {
   border-bottom-style: solid;
   /* border-bottom: 100px black; */
 }
+
+a {
+  color: white;
+}
+
+a:hover {
+  color: lightblue;
+}
