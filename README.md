@@ -4,14 +4,14 @@ Submitted by: **Nawfal Cherkaoui Elmalki**
 
 This web app: **Displays popular software engineering topics along with a link to an educational resource**
 
-Time spent: **15** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] **There is a unique theme for events or resources relevant to a specific community**
-- [ ] **At least 10 unique resources or events are displayed in a responsive card format**
+- [X] **There is a unique theme for events or resources relevant to a specific community**
+- [X] **At least 10 unique resources or events are displayed in a responsive card format**
 
 The following **optional** features are implemented:
 
